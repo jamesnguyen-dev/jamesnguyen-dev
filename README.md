@@ -1,7 +1,6 @@
 ## Hey there! I'm James 👋
 
-👩🏻‍💻 Full stack software developer<br />
-👩🏻‍🎓 Studied Computer Science at Texas A&M University - Corpus Christi<br />
+👩🏻‍💻 Full stack software developer based in Texas<br />
 🎨 Coming up with intuitive applications to develop and design!<br />
 💭 Currently learning about docker, kubernetes & turning my old laptop into a database server<br />
 
